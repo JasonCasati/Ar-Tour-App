@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffdf54</color>
+    <color name="colorPrimaryDark">#ffd621</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorPrimaryText">#000000</color>
+    <color name="menuBackground">#FFFFFF</color>
+    <color name="layoutBackground">#fff5b5</color>
+    <color name="line">#000000</color>
+    <color name="device_not_supported">#888888</color>
+    <color name="white">#ffffff</color>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Snapmark</string>
+
+    <string name="object_tracking">Building Recognition</string>
+    <string name="ar_directions">3D Directions</string>
+    <string name="building_button">Building Details</string>
+
+    <string-array name="objectTracking_samples">
+        <item>Cardiff Queens Building</item>
+        <item>Cardiff City Hall</item>
+        <item>Cardiff Natural History Museum</item>
+        <item>Cardiff Capitol Shopping Center</item>
+        <item>Cardiff Central Library</item>
+    </string-array>
+
+    <!-- Permission handling -->
+    <string name="permissions_denied">The Wikitude SDK needs the following permissions to enable an AR experience:</string>
+    <string name="permission_rationale_text">The Wikitude SDK needs the following permissions to enable an AR experience:</string>
+    <string name="permission_rationale_title">Wikitude Permissions</string>
+
+    <!-- SDK build information -->
+    <string name="build_information_title">Build information</string>
+    <string name="build_information_config">Build configuration:</string>
+    <string name="build_information_date">Build date:</string>
+    <string name="build_information_number">Build number:</string>
+    <string name="build_information_version">Build version:</string>
+
+    <!-- Place API building information -->
+    <string name="building_information_title">Building information</string>
+    <string name="building_information_name">Building name: </string>
+    <string name="building_information_time_table">Timetable: </string>
+    <string name="building_information_rating">Rating: </string>
+
+
+    <!-- Is device not supported -->
+    <string name="device_missing_features">Device missing features</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
